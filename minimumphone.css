@@ -1,0 +1,47 @@
+header .options{
+    display: flex;
+    flex-direction: column;
+}
+
+.container h1{
+    font-size: 3rem;
+}
+#leaderboard{
+    position: relative;
+    left: -200px;
+    transform: scale(0.4);
+
+}
+.btn,#sec,#count{
+
+    position: relative;
+    top: -700px;
+    transform: scale(0.5);
+}
+.btn:hover,#sec:hover,#count:hover{
+
+    position: relative;
+    top: -700px;
+    transform: scale(0.5);
+}
+.gameboximg{
+    width: 200px;
+    position: relative;
+    left: 0px;
+
+}
+#btnimg,#btn3x3,#btn5x5{
+    position: relative;
+    top: -480px;
+}
+#pause{
+    position: relative;
+    top: -670px;
+}
+
+
+#sec,#count{
+    position: relative;
+    left: 260px;
+    top: -750px;
+}

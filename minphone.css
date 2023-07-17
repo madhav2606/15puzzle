@@ -1,0 +1,69 @@
+body{
+    padding: 10px;
+    
+}
+#btn3x3{
+    /* display: none; */
+    width: 200px;
+    position: relative;
+    left: 20px;
+    top: 100px;
+}
+.gameboximg,.gamebox3x3,.gamebox5x5{
+    position: relative;
+    top: -400px;
+    
+}
+.gamebox3x3{
+    width: 450px;
+    position: relative;
+    /* left: -20px; */
+    top: -450px;
+}
+
+.gamebox5x5{
+    position: relative;
+    /* left: 60px; */
+}
+#pause{
+    height: 70px;
+    position: relative;
+    top: -450px;
+}
+.gamebox{
+    position: relative;
+    top:400px;
+}
+.btn{
+    width: 200px;
+    position: relative;
+    top: -450px;
+    left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    display: block;
+    height: 100px;
+    left: 20px;
+}
+#sec{
+    display: block;
+    position: relative;
+    top: -680px;
+    left: -60px;
+
+}
+
+.options{
+    display: flex;
+    flex-direction: column;
+}
+#count{
+   
+    position:relative;
+    top: -570px;
+    left: 100px;
+}
+#btn4x4{
+    position: relative;
+    top: -100px;
+}

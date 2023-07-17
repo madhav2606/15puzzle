@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#btn4x4{
+    width: 200px;
+}
+#btn3x3{
+    width: 200px;
+    height: 100px;
+    position: relative;
+    left: 10px;
+}
+.options button{
+    height: 70px;
+}
+#leaderboardtop{
+    padding-top: 20px;
+}
+.gamebox5x5{
+    position: relative;
+    left: 50px;
+
+}
+body{
+    padding: 10px;
+    
+}
+.gamebox{
+    position: relative;
+    top:400px;
+}
+.btn{
+    width: 200px;
+    position: relative;
+    top: -350px;
+    left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    display: inline;
+    height: 100px;
+}
+.options button{
+    display: flex;
+    width: 200px;
+}
+
+#count,#sec{
+    position: relative;
+    /* top: -600px; */
+    margin-right: 20px;
+    top: -21.8rem;
+    height: 100px;
+    left: -3%;
+    width: 100px;
+}
+#gamebox{
+    position: relative;
+    top: 200px;
+    left: -30px;
+}
+
+
+/* #content{
+    display: flex;
+
+} */
+
+#leaderboard #content{
+    
+}
